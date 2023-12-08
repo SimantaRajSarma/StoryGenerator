@@ -1,55 +1,56 @@
 {
     "stories": [
-      {
-        "title": "The Forgotten Letter",
-        "content": "In a dusty attic, Sarah discovered a forgotten letter that revealed a family secret spanning generations.",
-        "author": "Emma Thompson"
-      },
-      {
-        "title": "Whispers in the Woods",
-        "content": "As night fell, Mark heard mysterious whispers in the woods that led him to a hidden world filled with magic and wonder.",
-        "author": "Alexandra Carter"
-      },
-      {
-        "title": "The Timeless Watch",
-        "content": "David inherited a watch that could manipulate time. As he explored its powers, he learned valuable lessons about life's fleeting moments.",
-        "author": "James Anderson"
-      },
-      {
-        "title": "The Enchanted Mirror",
-        "content": "Julia's reflection in an old mirror spoke to her, offering guidance that changed the course of her life forever.",
-        "author": "Sophie Reynolds"
-      },
-      {
-        "title": "Footprints in the Sand",
-        "content": "On a lonely beach, Emily discovered mysterious footprints that led her to a stranded alien seeking refuge on Earth.",
-        "author": "Daniel Mitchell"
-      },
-      {
-        "title": "The Painter's Palette",
-        "content": "Amelia found an ancient painter's palette that brought her art to life, blurring the lines between imagination and reality.",
-        "author": "Gabriel Ramirez"
-      },
-      {
-        "title": "The Moonlit Serenade",
-        "content": "Under the moonlight, Thomas serenaded his lost love with a song that transcended time, reaching her across the stars.",
-        "author": "Isabella Sanchez"
-      },
-      {
-        "title": "The Whispering Winds",
-        "content": "In a quiet village, the winds whispered secrets that only the wise old oak tree could understand, changing lives forever.",
-        "author": "Oliver Turner"
-      },
-      {
-        "title": "The Dancing Shadows",
-        "content": "Lucy discovered that the shadows in her room came to life at night, dancing to a melody only she could hear.",
-        "author": "Megan Foster"
-      },
-      {
-        "title": "The Starry Messenger",
-        "content": "Inspired by a mysterious message from the stars, Christopher built a telescope that revealed the wonders of the universe.",
-        "author": "Natalie Adams"
-      },
+  {
+    {
+      "title": "The Lotus Offering",
+      "content": "In a small village, a humble devotee presented a lotus flower to the deity at the temple every day. The divine spirit, pleased with the sincerity, manifested a miracle, turning the lotus into a symbol of purity for the entire community.",
+      "author": "Saraswati Desai"
+    },
+    {
+      "title": "The Sacred Cow's Blessing",
+      "content": "During a drought, a kind-hearted farmer shared the little food he had with a starving cow. In gratitude, the sacred cow blessed the fields, bringing abundant rainfall and prosperity to the village.",
+      "author": "Gopal Sharma"
+    },
+    {
+      "title": "The Mysterious Mandala",
+      "content": "A young artist, seeking inspiration, discovered a hidden mandala deep within the Himalayan caves. Each intricate pattern conveyed a profound spiritual message, guiding the artist towards enlightenment.",
+      "author": "Lakshmi Menon"
+    },
+    {
+      "title": "The Monkey King's Lesson",
+      "content": "Hanuman, the monkey king, taught a mischievous young monkey the importance of discipline and devotion. The lesson transformed the young one into a wise leader, emphasizing the virtues of humility and service.",
+      "author": "Ram Kapoor"
+    },
+    {
+      "title": "The Celestial Garland",
+      "content": "During a celestial event, flowers fell from the sky, forming a radiant garland. Villagers believed it to be a divine gift, symbolizing unity and harmony among all living beings.",
+      "author": "Parvati Singh"
+    },
+    {
+      "title": "The Rivers' Tale",
+      "content": "The confluence of rivers Ganga and Yamuna narrated ancient tales to a curious traveler. Each ripple held stories of gods and goddesses, echoing the timeless wisdom of the flowing waters.",
+      "author": "Yamini Verma"
+    },
+    {
+      "title": "The Karma Weaver",
+      "content": "In a bustling city, a weaver crafted a tapestry depicting the interconnectedness of all life. The woven threads illustrated the concept of karma, teaching the observer the importance of mindful actions.",
+      "author": "Kiran Agarwal"
+    },
+    {
+      "title": "The Sacred Flame Dance",
+      "content": "During a religious festival, a young dancer performed the sacred flame dance. The mesmerizing movements and symbolism invoked divine blessings, fostering a sense of spiritual connection among the spectators.",
+      "author": "Radha Kapoor"
+    },
+    {
+      "title": "The Peacock Feather's Secret",
+      "content": "A child, fascinated by the vibrant peacock feather, discovered a hidden message encoded within its patterns. The revelation became a source of wisdom, guiding the child throughout life.",
+      "author": "Krishna Deshmukh"
+    },
+    {
+      "title": "The Celestial Lullaby",
+      "content": "A devoted mother sang a celestial lullaby to her child, invoking the blessings of celestial beings. The soothing melody brought peace and tranquility to the household.",
+      "author": "Shanti Devi"
+    },
       {
         "title": "Divine Intervention",
         "content": "In the ancient city of Varanasi, young Priya experienced a divine intervention that changed the course of her life, guided by the river Ganges.",
