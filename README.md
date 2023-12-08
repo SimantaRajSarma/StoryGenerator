@@ -5,4 +5,4 @@ This repository contains a random story generator focused on Hindu religious nar
 ![image](https://github.com/SimantaRajSarma/StoryGenerator/images/desktop-view.png)
 
 # Mobile View
-![image](https://github.com/SimantaRajSarma/StoryGenerator/images/mobile-view.png)
+![image]([https://github.com/SimantaRajSarma/StoryGenerator/images/mobile-view.png](https://github.com/SimantaRajSarma/StoryGenerator/blob/main/images/mobile-view.png?raw=true)https://github.com/SimantaRajSarma/StoryGenerator/blob/main/images/mobile-view.png?raw=true)
